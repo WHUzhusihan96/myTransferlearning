@@ -1,2 +1,2 @@
 # CodeDuringMyStudy
-i will save some codes during my study here
+i will keep some codes during my study here
