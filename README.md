@@ -1,4 +1,4 @@
-# CodeDuringMyStudy
+# MyStudyRecord
 
 I will keep some codes during my study here.
 
