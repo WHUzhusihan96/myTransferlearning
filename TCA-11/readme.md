@@ -1,10 +1,10 @@
 # TCA
 
-the paper and the code of TCA
+The paper and the code of TCA
 
-i write `myTCA.m` by myself and refer to the following work.(`TCA.m` can be seen here [[WJD]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/TCA))
+I write `myTCA.m` by myself and refer to the following work.(`TCA.m` can be seen here [[WJD]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/TCA))
 
-there's also having code in python style, and also i write `myTCA.ipynb` by myself and refer to the following work.(`TCA.py` can be seen here [[WJD]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/TCA))
+There's also having code in python style, and also i write `myTCA.ipynb` by myself and refer to the following work.(`TCA.py` can be seen here [[WJD]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/TCA))
 
 Because I am a rookie, so explain in detail.
 
