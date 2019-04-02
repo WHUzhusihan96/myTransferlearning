@@ -6,7 +6,7 @@ i write `myTCA.m` by myself and refer to the following work.(`TCA.m` can be seen
 
 there's also having code in python style, and also i write `myTCA.ipynb` by myself and refer to the following work.(`TCA.py` can be seen here[王晋东/wangjindong](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/TCA))
 
-Very Many thanks to wang jindong for sharing his experience and knowledge
+Many thanks to wang jindong for sharing his experience and knowledge
 
 **reference**
 
