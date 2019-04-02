@@ -8,7 +8,7 @@ There's also having code in python style, and also i write `myTCA.ipynb` by myse
 
 Because I am a rookie, so explain in detail.
 
-Many thanks to Wang J.D. for sharing his experience and knowledge
+Many thanks to Wang J.D. for sharing his experience and knowledge.His introduction to TCA [[here]](https://zhuanlan.zhihu.com/p/26764147)
 
 **reference**
 
