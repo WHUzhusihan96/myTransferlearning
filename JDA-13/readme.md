@@ -4,7 +4,7 @@ The paper and the code of JDA
 
 I write `myJDA.m` by myself and refer to the following work.(`JDA.m` can be seen here [[WJD]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/JDA))
 
-There's also having code in python style, and also i write `JDA.ipynb` by myself and refer to the following work.(`TCA.py` can be seen here [[WJD]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/JDA)
+There's also having code in python style, and also i write `JDA.ipynb` by myself and refer to the following work.(`TCA.py` can be seen here [[WJD]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/JDA))
 
 Many thanks to Wang J.D. for sharing his experience and knowledge.His introduction to JDA [[here]](https://zhuanlan.zhihu.com/p/27336930)
 
