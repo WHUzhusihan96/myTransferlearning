@@ -1,5 +1,4 @@
 clear;
-%读取源域数据#SUN->S1 Scene-15->S2 banjaluka->T1, UCMERCED->T2  C19->T3
 %caltech,amazon,webcam,dslr
 load('/data/dslr.mat');
 src_data =  feas; src_label = label;
