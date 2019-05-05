@@ -6,8 +6,6 @@ I write `myTCA.m` by myself and refer to the following work.I just use no kernel
 
 There's also having code in python style, and also i write `myTCA.ipynb` by myself and refer to the following work.(`TCA.py` can be seen here [[WJD]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/TCA))
 
-Because I am a rookie, so explain in detail.
-
 Many thanks to Wang J.D. for sharing his experience and knowledge.His introduction to TCA [[here]](https://zhuanlan.zhihu.com/p/26764147)
 
 **`And when you do traditional TL, I suggest matlab`(there's no problem in matlab version)**
