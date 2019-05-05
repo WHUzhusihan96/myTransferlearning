@@ -10,7 +10,7 @@ There's a little different between the code written by myself and WJD in python 
 
 Many thanks to Wang J.D. for sharing his experience and knowledge.His introduction to JDA [[here]](https://zhuanlan.zhihu.com/p/27336930)
 
----
+----
 
 **reference**
 
