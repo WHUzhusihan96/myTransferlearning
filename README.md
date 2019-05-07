@@ -18,7 +18,7 @@ I'm very thankful to wangjindong for sharing [here](http://transferlearning.xyz/
 
 [2019.5.7]---I upload some papers in 'other traditional TL algorithms'
 
-Except for the ones mentioned above, 
+**Except for algorithms mentioned above, others are not cleared up yet.**
 
 ---
 
