@@ -1,6 +1,6 @@
 # TJM
 
-The paper and the code of TJM
+The paper and the code of TJM.
 
 I write `mTJM.m` by myself and when using primal kernel(without kernel),I think it's similar to JDA.
 
