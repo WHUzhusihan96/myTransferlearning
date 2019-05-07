@@ -1,7 +1,7 @@
 TrAdaboost
 =====
 
-The code of trAdaBoost is written by [[here]](https://github.com/chenchiwei/tradaboost).and i've do some explanation about the code.
+The code of trAdaBoost is written by [[here]](https://github.com/chenchiwei/tradaboost).and i've done some explanations about the code.
 
 **reference**
 
