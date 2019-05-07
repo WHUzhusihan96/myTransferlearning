@@ -6,7 +6,7 @@ Most of these are about Transfer Learning (Domain adaptation).And i just provide
 
 here is the most important survay in Transfer Learning by Yang Qiang. [[here]](https://ieeexplore.ieee.org/abstract/document/5288526). Pan S J, Yang Q. A survey on transfer learning[J]. IEEE Transactions on knowledge and data engineering, 2010, 22(10): 1345-1359.
 
-I'm very thankful to wangjindong for sharing [here](http://transferlearning.xyz/).
+I'm very thankful to wangjindong for sharing [[here]](http://transferlearning.xyz/).
 
 ---
 
@@ -26,6 +26,4 @@ If you have any questions or want to communicate with me, please contact:
 
 1. 791040557@qq.com
 
-2. Zhush18784550128@163.com
-
-3. sihanzhu@outlook.com
+2. sihanzhu@outlook.com
