@@ -1,12 +1,7 @@
 TrAdaboost
 =====
 
-![tradaboost](https://travis-ci.org/chenchiwei/tradaboost.svg?branch=master)
+you can get origin code about trAdaBoost [[here]](https://github.com/chenchiwei/tradaboost).and i've do some explanation about the code.
 
-Transfer learning algorithm TrAdaboost ,coded by python
-
-
-
-更多意见与交流可关注微信
-
-![关注微信，一起交流](http://upload-images.jianshu.io/upload_images/2983845-8def6e82d15c71d0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+**reference**
+Dai, W., Yang, Q., Xue, G.-R., and Yu, Y. 2007. Boosting for transfer learning. In ICML, pages 193–200. ACM. you can get paper [[here]](https://dl.acm.org/citation.cfm?id=1273521)
