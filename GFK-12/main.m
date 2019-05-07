@@ -1,19 +1,16 @@
 clear;
-%¶ÁÈ¡Ô´ÓòÊı¾İ#SUN->S1 Scene-15->S2 banjaluka->T1, UCMERCED->T2  C19->T3
 %caltech,amazon,webcam,dslr
-load('/newdata28/Scene-15.mat');
-src_data = data;src_label = label;clear data;clear label;
-src_data = zscore(double(src_data));
-%¶ÁÈ¡Ä¿±êÓòÊı¾İ
-load('/newdata28/C19.mat');
-tar_data = data;tar_label = label;clear data;clear label;
-tar_data = zscore(double(tar_data));
+load('/data/caltech.mat');
+src_data = feas;src_label = label;clear data;clear label;
+%è¯»å–ç›®æ ‡åŸŸæ•°æ®
+load('/data/amazon.mat');
+tar_data = feas;tar_label = label;clear data;clear label;
 acc_i = [];
 for i = 20 : 100
     [acc,G,Cls] = GFK(src_data,src_label,tar_data,tar_label,i);
     acc_i = [acc_i;acc];
 end
-%ÔËĞĞSVM½øĞĞ·ÖÀà
+%è¿è¡ŒSVMè¿›è¡Œåˆ†ç±»
 %model = libsvmtrain(src_label, X_src_new,'-c 100');
 %[pred, acc, ~] = libsvmpredict(tar_label, X_tar_new, model);
-%ÔËĞĞKNN·ÖÀàÆ÷
+%è¿è¡ŒKNNåˆ†ç±»å™¨
