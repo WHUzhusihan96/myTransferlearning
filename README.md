@@ -13,3 +13,13 @@ here is the most important survay in Transfer Learning by Yang Qiang. [[here]](h
 [2019.4.3]---I upload the algorithm JDA.
 
 [2019.5.5]---I upload the algorithm TJM
+
+---
+
+If you have any questions or want to communicate with me, please contact:
+
+1. 791040557@qq.com
+
+2. Zhush18784550128@163.com
+
+3. sihanzhu@outlook.com
