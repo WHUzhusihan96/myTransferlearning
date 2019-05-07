@@ -16,7 +16,7 @@ I'm very thankful to wangjindong for sharing [here](http://transferlearning.xyz/
 
 [2019.5.5]---I upload the algorithm TJM
 
-[2019.5.7]---I upload some papers in 'other traditional TL algorithms'
+[2019.5.7]---I upload some papers in `other traditional TL algorithms`
 
 **Except for algorithms mentioned above, others are not cleared up yet.**
 
