@@ -11,7 +11,7 @@ almost paper here are what i haven't do implementation. Just provide paper or so
 - **TTL（传递迁移学习） [[here]](https://dl.acm.org/citation.cfm?id=2783295)**
     - Tan B, Song Y, Zhong E, et al. Transitive transfer learning[C]//Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015: 1155-1164.
 
-- **DDTL（远领域迁移学习) [[here]](http://www.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Distant%20Domain%20Transfer%20Learning.pdf)**
+- **DDTL（远领域迁移学习） [[here]](http://www.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Distant%20Domain%20Transfer%20Learning.pdf)**
     - Tan B, Zhang Y, Pan S J, et al. Distant domain transfer learning[C]//Thirty-First AAAI Conference on Artificial Intelligence. 2017. you can get paper
 
 - **A survey [[here]](https://arxiv.org/abs/1705.04396)**
