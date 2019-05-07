@@ -1,6 +1,6 @@
 # JDA
 
-The paper and the code of JDA
+The paper and the code of JDA.
 
 I write `myJDA.m` by myself and refer to the following work.(`JDA.m` can be seen here [[WJD]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/JDA))
 
