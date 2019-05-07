@@ -1,13 +1,10 @@
 clear;
-%¶ÁÈ¡Ô´ÓòÊı¾İ#SUN->S1 Scene-15->S2 banjaluka->T1, UCMERCED->T2  C19->T3
 %caltech,amazon,webcam,dslr
 load('/data/dslr.mat');
 src_data = feas;src_label = label;clear data;clear label;
-% src_data = zscore(double(src_data));
-%¶ÁÈ¡Ä¿±êÓòÊı¾İ
+%è¯»å–ç›®æ ‡åŸŸæ•°æ®
 load('/data/webcam.mat');
 tar_data = feas;tar_label = label;clear data;clear label;
-% tar_data = zscore(double(tar_data));
 Xs_new = CORAL(src_data,tar_data);
 
 % knn_model = fitcknn(Xs_new,src_label,'NumNeighbors',1);
@@ -21,7 +18,7 @@ Xs_new = CORAL(src_data,tar_data);
 
 % [acc,~,time_pass] = CORAL_SVM(src_data,src_label,tar_data,tar_label);
 
-%¾­¹ıÊµÑé£¬CORALÕâ¸ö·½·¨£¬Èç¹ûÊ¹ÓÃSVM·ÖÀàÆ÷£¬×îºÃ²ÉÓÃSIM£»¶øÊ¹ÓÃNN·ÖÀàÆ÷£¬ÔòÖ±½ÓÊ¹ÓÃ£¬ÕâÑù¾«¶È¸ß
-%Ò²¾ÍÊÇÉÏÃæµÄµÚ1¸öºÍµÚ4¸ö·½·¨¡£°üÀ¨SAµÈ·½·¨Ò²ÊÇÀàËÆµÄ¡£
-%ÔÚCORALµÄÎÄÕÂÖĞÃ»ÓĞÀàËÆ½âÊÍ£¬SAÖĞÓĞ½âÊÍ£¬µ«ÊÇÊÇÏà·´µÄ£ºWe use SIM directly to perform a ?nearest neighbor classification task. 
+%ç»è¿‡å®éªŒï¼ŒCORALè¿™ä¸ªæ–¹æ³•ï¼Œå¦‚æœä½¿ç”¨SVMåˆ†ç±»å™¨ï¼Œæœ€å¥½é‡‡ç”¨SIMï¼›è€Œä½¿ç”¨NNåˆ†ç±»å™¨ï¼Œåˆ™ç›´æ¥ä½¿ç”¨ï¼Œè¿™æ ·ç²¾åº¦é«˜
+%ä¹Ÿå°±æ˜¯ä¸Šé¢çš„ç¬¬1ä¸ªå’Œç¬¬4ä¸ªæ–¹æ³•ã€‚åŒ…æ‹¬SAç­‰æ–¹æ³•ä¹Ÿæ˜¯ç±»ä¼¼çš„ã€‚
+%åœ¨CORALçš„æ–‡ç« ä¸­æ²¡æœ‰ç±»ä¼¼è§£é‡Šï¼ŒSAä¸­æœ‰è§£é‡Šï¼Œä½†æ˜¯æ˜¯ç›¸åçš„ï¼šWe use SIM directly to perform a ?nearest neighbor classification task. 
 %On the other hand, since SIM not PSD we can not make use of it to learna SVM directly.
