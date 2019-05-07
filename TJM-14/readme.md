@@ -2,7 +2,7 @@
 
 The paper and the code of TJM.
 
-I write `mTJM.m` by myself and when using primal kernel(without kernel),I think it's similar to JDA.
+I write `mTJM.m` by myself and when using primal kernel(without kernel), I think it's similar to JDA.
 
 **`when you do traditional TL, I suggest matlab`**
 
