@@ -106,18 +106,3 @@ def calculate_error_rate(label_R, label_H, weight):#分别是真实标签，预�
     # print(weight[:, 0] / total)
     # print(np.abs(label_R - label_H))
     return np.sum(weight[:, 0] / total * np.abs(label_R - label_H))#与原文的error计算对应
-
-# 上面这个是二分类，所以貌似不适用于我的这个数据。
-# if __name__ == '__main__':
-#     domains = ['caltech.mat', 'amazon.mat', 'webcam.mat', 'dslr.mat']
-#     for i in range(4):
-#         for j in range(4):
-#             if i != j:
-#                 print('*****************************************')
-#                 src, tar = 'data/' + domains[i], 'data/' + domains[j]
-#                 src_domain, tar_domain = scipy.io.loadmat(src), scipy.io.loadmat(tar)
-#                 Xs, Ys, Xt, Yt = src_domain['feas'], src_domain['label'], tar_domain['feas'], tar_domain['label']
-#                 a = tradaboost(Xs, Xt, Ys, Yt, Xt, 10)
-#                 print(a)
-#                 acc = sklearn.metrics.accuracy_score(Yt, a)
-#                 print(acc)
